@@ -17,7 +17,3 @@ def sort_array_char_count(array)
   end
 end
 
-def sort_array_swap(array)
-  array[1], array[2] = array[2], array[1]
-  array
-end
